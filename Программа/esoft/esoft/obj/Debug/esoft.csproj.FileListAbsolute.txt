@@ -1,0 +1,23 @@
+C:\Users\ШарпановДА\Desktop\Esoft0\esoft\esoft\bin\Debug\esoft.exe.config
+C:\Users\ШарпановДА\Desktop\Esoft0\esoft\esoft\bin\Debug\esoft.exe
+C:\Users\ШарпановДА\Desktop\Esoft0\esoft\esoft\bin\Debug\esoft.pdb
+C:\Users\ШарпановДА\Desktop\Esoft0\esoft\esoft\obj\Debug\esoft.csprojAssemblyReference.cache
+C:\Users\ШарпановДА\Desktop\Esoft0\esoft\esoft\obj\Debug\esoft.gl.resources
+C:\Users\ШарпановДА\Desktop\Esoft0\esoft\esoft\obj\Debug\esoft.Properties.Resources.resources
+C:\Users\ШарпановДА\Desktop\Esoft0\esoft\esoft\obj\Debug\esoft.csproj.GenerateResource.cache
+C:\Users\ШарпановДА\Desktop\Esoft0\esoft\esoft\obj\Debug\esoft.csproj.CoreCompileInputs.cache
+C:\Users\ШарпановДА\Desktop\Esoft0\esoft\esoft\obj\Debug\esoft.exe
+C:\Users\ШарпановДА\Desktop\Esoft0\esoft\esoft\obj\Debug\esoft.pdb
+C:\Users\ШарпановДА\Desktop\Esoft0\esoft\esoft\obj\Debug\esoft.glav.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\obj\Debug\esoft.csprojAssemblyReference.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\obj\Debug\esoft.exe
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\obj\Debug\esoft.pdb
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\bin\Debug\esoft.exe.config
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\bin\Debug\esoft.exe
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\bin\Debug\esoft.pdb
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\obj\Debug\esoft.Manager.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\obj\Debug\esoft.Vxod.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\obj\Debug\esoft.Administr.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\obj\Debug\esoft.Properties.Resources.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\obj\Debug\esoft.csproj.GenerateResource.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Шарпанов ДА\Участик 069\Программа\esoft\esoft\obj\Debug\esoft.csproj.CoreCompileInputs.cache
